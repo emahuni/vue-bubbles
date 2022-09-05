@@ -1,5 +1,7 @@
 # Vue-bubble
 
+#  todo replace this with https://github.com/kb10uy/vue-bubbler
+
 broadcast and bubble events to spread between Vue component
 
 Vue.prototype.$emit can only receive event in the instance component. It doesn't have mechanism for bubbling and broadcasting. So I write this Vue plugin to extend it.
